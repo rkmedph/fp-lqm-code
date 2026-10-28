@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+.venv/
+venv/
+
+# Данные, которые нельзя перераспространять (страховка от случайного коммита)
+PIDE_database.xlsx
+photon_fit_table.csv
+*PIDE_database*
+*photon_fit_table*

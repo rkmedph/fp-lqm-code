@@ -1,0 +1,230 @@
+[
+ {
+  "curve_id": "HOW18_CHO_6MV",
+  "cell": "CHO",
+  "source": "Howard ME et al 2018 Int J Part Ther 4(3):12-22, Fig. 3 (6 MV series, identical in both panels)",
+  "doi": "10.14338/IJPT-17-00031.1 (not verified)",
+  "linac": "Varian TrueBeam",
+  "energy": "6 MV (flattened)",
+  "dose_rate": "600 cGy/min",
+  "replicates": "3 independent runs x triplicate wells",
+  "error_bars": "as plotted (type not stated in figure caption)",
+  "points": [
+   {
+    "D": 1.0,
+    "SF": 0.9714341327536592,
+    "rel_err_reported": 0.039079397725715226,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.04389987843496422,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 2.0,
+    "SF": 0.6340591218490591,
+    "rel_err_reported": 0.06041691846540235,
+    "rel_err_digitisation": 0.07,
+    "sigma_lnSF": 0.09246731334290553,
+    "n_panels": 2,
+    "method": "column search (marker partly hidden)"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.27115812442701154,
+    "rel_err_reported": 0.06041691846540235,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.0636412133515309,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 5.0,
+    "SF": 0.2035036617517276,
+    "rel_err_reported": 0.08533970525597463,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.08765195544411217,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.1291917278429548,
+    "rel_err_reported": 0.05368316366442425,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.05728771300219062,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.028747215519716058,
+    "rel_err_reported": 0.053209975898904596,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.05684453830546966,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.005271755389540285,
+    "rel_err_reported": 0.11990011458411337,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.12155672534781248,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   }
+  ]
+ },
+ {
+  "curve_id": "HOW18_A549_6MV",
+  "cell": "A549",
+  "source": "Howard ME et al 2018 Int J Part Ther 4(3):12-22, Fig. 3 (6 MV series, identical in both panels)",
+  "doi": "10.14338/IJPT-17-00031.1 (not verified)",
+  "linac": "Varian TrueBeam",
+  "energy": "6 MV (flattened)",
+  "dose_rate": "600 cGy/min",
+  "replicates": "3 independent runs x triplicate wells",
+  "error_bars": "as plotted (type not stated in figure caption)",
+  "points": [
+   {
+    "D": 1.0,
+    "SF": 0.9222,
+    "rel_err_reported": 0.04608666932575424,
+    "rel_err_digitisation": 0.07,
+    "sigma_lnSF": 0.08380919454058378,
+    "n_panels": 1,
+    "method": "column search (marker partly hidden)"
+   },
+   {
+    "D": 2.0,
+    "SF": 0.7108694332882058,
+    "rel_err_reported": 0.03791689756457851,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.042868299720454736,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.27943728063921247,
+    "rel_err_reported": 0.043828754423190334,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.04817633977678593,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 5.0,
+    "SF": 0.21819004985813895,
+    "rel_err_reported": 0.049649830479322435,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.05352668181968181,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.15756318928152213,
+    "rel_err_reported": 0.04938855519899722,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.05328441971762849,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.04013406871578823,
+    "rel_err_reported": 0.04665555907221457,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.05076161140410047,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.015415427357250449,
+    "rel_err_reported": 0.046577975663705036,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.05069031285096491,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   }
+  ]
+ },
+ {
+  "curve_id": "HOW18_T98_6MV",
+  "cell": "T98",
+  "source": "Howard ME et al 2018 Int J Part Ther 4(3):12-22, Fig. 3 (6 MV series, identical in both panels)",
+  "doi": "10.14338/IJPT-17-00031.1 (not verified)",
+  "linac": "Varian TrueBeam",
+  "energy": "6 MV (flattened)",
+  "dose_rate": "600 cGy/min",
+  "replicates": "3 independent runs x triplicate wells",
+  "error_bars": "as plotted (type not stated in figure caption)",
+  "points": [
+   {
+    "D": 1.0,
+    "SF": 0.8564477800776882,
+    "rel_err_reported": 0.07631153352501109,
+    "rel_err_digitisation": 0.07,
+    "sigma_lnSF": 0.1035540928642557,
+    "n_panels": 2,
+    "method": "column search (marker partly hidden)"
+   },
+   {
+    "D": 2.0,
+    "SF": 0.5818568729259839,
+    "rel_err_reported": 0.06493369266288226,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.06794398018101125,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.3180953179485464,
+    "rel_err_reported": 0.09353798358819382,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.09565225754651699,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 5.0,
+    "SF": 0.20933559535429558,
+    "rel_err_reported": 0.12110628747298322,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.12274662058683673,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.12925027801688835,
+    "rel_err_reported": 0.07275604727816823,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.0754549031908666,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.019039043596471236,
+    "rel_err_reported": 0.05214763843323269,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.055851375937958476,
+    "n_panels": 2,
+    "method": "blob centroid, colour mask"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.006794309185769491,
+    "rel_err_reported": 0.14227460284685428,
+    "rel_err_digitisation": 0.02,
+    "sigma_lnSF": 0.14367345828381148,
+    "n_panels": 1,
+    "method": "blob centroid, colour mask"
+   }
+  ]
+ }
+]

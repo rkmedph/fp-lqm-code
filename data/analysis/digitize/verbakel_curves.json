@@ -1,0 +1,230 @@
+{
+ "source": "Verbakel WFAR et al 2013 Acta Oncol 52:652-7, Fig. 3",
+ "doi": "10.3109/0284186X.2012.737021",
+ "linac": "Varian TrueBeam",
+ "errors": "SEM, n = 3 (bars mostly smaller than markers)",
+ "curves": [
+  {
+   "cell": "SW1573",
+   "beam": "10 MV FFF",
+   "dose_rate": "~24 Gy/min (2400 MU/min)",
+   "points": [
+    {
+     "D": 2.0,
+     "SF": 0.77113,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 4.0,
+     "SF": 0.56381,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 6.0,
+     "SF": 0.37137,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 8.0,
+     "SF": 0.11781,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 10.0,
+     "SF": 0.04801,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 12.0,
+     "SF": 0.018,
+     "how": "template match + blob centroid"
+    }
+   ]
+  },
+  {
+   "cell": "SW1573",
+   "beam": "6 MV FF",
+   "dose_rate": "5.86 Gy/min (600 MU/min)",
+   "points": [
+    {
+     "D": 2.0,
+     "SF": 0.77113,
+     "how": "hidden under closed marker (set equal)"
+    },
+    {
+     "D": 4.0,
+     "SF": 0.58,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 6.0,
+     "SF": 0.3,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 8.0,
+     "SF": 0.107,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 10.0,
+     "SF": 0.061,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 12.0,
+     "SF": 0.0277,
+     "how": "manual read-off, 3x zoom"
+    }
+   ]
+  },
+  {
+   "cell": "D384",
+   "beam": "10 MV FFF",
+   "dose_rate": "~24 Gy/min (2400 MU/min)",
+   "points": [
+    {
+     "D": 2.0,
+     "SF": 0.74609,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 4.0,
+     "SF": 0.50207,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 6.0,
+     "SF": 0.25766,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 8.0,
+     "SF": 0.08359,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 10.0,
+     "SF": 0.01421,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 12.0,
+     "SF": 0.0039,
+     "how": "template match + blob centroid"
+    }
+   ]
+  },
+  {
+   "cell": "D384",
+   "beam": "6 MV FF",
+   "dose_rate": "5.86 Gy/min (600 MU/min)",
+   "points": [
+    {
+     "D": 2.0,
+     "SF": 0.86,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 4.0,
+     "SF": 0.50207,
+     "how": "hidden under closed marker (set equal)"
+    },
+    {
+     "D": 6.0,
+     "SF": 0.224,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 8.0,
+     "SF": 0.08359,
+     "how": "hidden under closed marker (set equal)"
+    },
+    {
+     "D": 10.0,
+     "SF": 0.0161,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 12.0,
+     "SF": 0.003,
+     "how": "manual read-off, 3x zoom"
+    }
+   ]
+  },
+  {
+   "cell": "T98",
+   "beam": "10 MV FFF",
+   "dose_rate": "~24 Gy/min (2400 MU/min)",
+   "points": [
+    {
+     "D": 2.0,
+     "SF": 0.81244,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 4.0,
+     "SF": 0.29211,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 6.0,
+     "SF": 0.14977,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 8.0,
+     "SF": 0.06635,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 10.0,
+     "SF": 0.0084,
+     "how": "template match + blob centroid"
+    },
+    {
+     "D": 12.0,
+     "SF": 0.00187,
+     "how": "template match + blob centroid"
+    }
+   ]
+  },
+  {
+   "cell": "T98",
+   "beam": "6 MV FF",
+   "dose_rate": "5.86 Gy/min (600 MU/min)",
+   "points": [
+    {
+     "D": 2.0,
+     "SF": 0.81244,
+     "how": "hidden under closed marker (set equal)"
+    },
+    {
+     "D": 4.0,
+     "SF": 0.351,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 6.0,
+     "SF": 0.159,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 8.0,
+     "SF": 0.06635,
+     "how": "hidden under closed marker (set equal)"
+    },
+    {
+     "D": 10.0,
+     "SF": 0.007,
+     "how": "manual read-off, 3x zoom"
+    },
+    {
+     "D": 12.0,
+     "SF": 0.00119,
+     "how": "manual read-off, 3x zoom"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Если вы используете этот код, пожалуйста, цитируйте его и статью."
+type: software
+title: "Code for: Lethal-threshold crossing in a stochastic lesion-repair model"
+abstract: >-
+  Exact threshold-crossing model of DNA lesion induction and repair
+  (birth-death master equation), its Fokker-Planck diffusion limit,
+  identifiability experiments and analysis of published survival curves.
+authors:
+  - family-names: Ryazanov
+    given-names: Konstantin
+    orcid: "https://orcid.org/0009-0003-8809-8494"
+    affiliation: "Department of Medical Physics, Kaliningrad Regional Oncology Centre, Kaliningrad, Russian Federation"
+    email: rkmedph@gmail.com
+license: MIT
+version: 1.0.0
+date-released: "2026-10-22"
+keywords:
+  - linear-quadratic model
+  - master equation
+  - Fokker-Planck equation
+  - first-passage time
+  - parameter identifiability
+  - DNA damage repair
+  - dose-rate effect

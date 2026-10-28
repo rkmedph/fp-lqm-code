@@ -1,0 +1,26 @@
+{
+  "upload_type": "software",
+  "title": "Code for: Lethal-threshold crossing in a stochastic lesion-repair model: exact linear-quadratic coefficients, the Fokker-Planck limit and parameter identifiability",
+  "description": "<p>Source code that generates all results and figures of the paper: the exact threshold-crossing model of DNA lesion induction and repair (birth-death master equation), its Fokker-Planck diffusion limit, computational identifiability experiments, and the analysis of published cell-survival curves.</p><p><strong>Data are not included.</strong> The PIDE database is supplied by GSI under a no-redistribution condition and is available free of charge after registration (Friedrich et al 2013, 2021); the database of Polgar et al (2022) and the source publications are likewise not redistributed. Numerical values transcribed from published tables and digitized from published figures are included in the code with a source reference for each entry. Run <code>set_paths.sh</code> once after extraction to adjust the absolute paths.</p>",
+  "creators": [
+    {
+      "name": "Ryazanov, Konstantin",
+      "orcid": "0009-0003-8809-8494",
+      "affiliation": "Department of Medical Physics, Kaliningrad Regional Oncology Centre, Kaliningrad, Russian Federation"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "linear-quadratic model",
+    "master equation",
+    "birth-death process",
+    "Fokker-Planck equation",
+    "first-passage time",
+    "parameter identifiability",
+    "DNA damage repair",
+    "dose-rate effect",
+    "radiobiology"
+  ]
+}

@@ -1,0 +1,24 @@
+Subject: PIDE access request – independent researcher (radiobiological modelling)
+
+Dear PIDE team,
+
+I am an independent researcher working on stochastic models of DNA-damage repair and
+cell survival. A manuscript currently in preparation for Physics in Medicine & Biology
+derives the linear-quadratic survival law from a lethal-threshold master-equation model.
+To test its predictions — the sign and small-dose behaviour of the LQ coefficients, and
+a lower bound on the number of independent lethal domains — I need the raw photon
+dose–survival data (PIDE x.x PhotonRawData.dat and the accompanying Excel file).
+
+I have no institutional e-mail address, so I cannot complete the online registration
+form. I would be grateful if you could register me under this address, or advise on an
+alternative procedure.
+
+The data will be used for this analysis only, will not be redistributed, and PIDE will be
+cited as Friedrich et al. (2013, J. Radiat. Res. 54:494–514) and Friedrich et al. (2021,
+J. Radiat. Res. 62:645–655). I will be glad to share the results with you before
+submission.
+
+Kind regards,
+Konstantin [Surname]
+rkmedph@gmail.com
+[ORCID, if available]

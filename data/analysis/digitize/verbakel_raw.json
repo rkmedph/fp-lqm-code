@@ -1,0 +1,290 @@
+[
+ {
+  "cell": "SW1573",
+  "beam": "10 MV FFF (closed)",
+  "points": [
+   {
+    "D": 2.0,
+    "SF": 0.771125171409073,
+    "score": 1.0,
+    "dcol": -1.4,
+    "how": "template match"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.5638093120213167,
+    "score": 1.0,
+    "dcol": -1.3,
+    "how": "template match"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.3713716359681958,
+    "score": 1.0,
+    "dcol": -1.2,
+    "how": "template match"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.11780644974674467,
+    "score": 1.0,
+    "dcol": -1.0,
+    "how": "template match"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.048009094376626024,
+    "score": 1.0,
+    "dcol": -0.9,
+    "how": "template match"
+   },
+   {
+    "D": 12.0,
+    "SF": 0.017997544518709496,
+    "score": 1.0,
+    "dcol": -0.7,
+    "how": "template match"
+   }
+  ]
+ },
+ {
+  "cell": "SW1573",
+  "beam": "6 MV FF (open)",
+  "points": [
+   {
+    "D": 2.0,
+    "SF": 0.771125171409073,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.5638093120213167,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.3713716359681958,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.11780644974674467,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.048009094376626024,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 12.0,
+    "SF": 0.027899919223164305,
+    "score": 1.0,
+    "dcol": -0.7,
+    "how": "template match"
+   }
+  ]
+ },
+ {
+  "cell": "D384",
+  "beam": "10 MV FFF (closed)",
+  "points": [
+   {
+    "D": 2.0,
+    "SF": 0.7460864977940751,
+    "score": 1.0,
+    "dcol": -2.8,
+    "how": "template match"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.5020721526259045,
+    "score": 1.0,
+    "dcol": -4.4,
+    "how": "template match"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.257657689626283,
+    "score": 1.0,
+    "dcol": -2.9,
+    "how": "template match"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.08358637717495508,
+    "score": 1.0,
+    "dcol": -3.5,
+    "how": "template match"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.014208842989619917,
+    "score": 1.0,
+    "dcol": -3.1,
+    "how": "template match"
+   },
+   {
+    "D": 12.0,
+    "SF": 0.003901398861609787,
+    "score": 1.0,
+    "dcol": -2.6,
+    "how": "template match"
+   }
+  ]
+ },
+ {
+  "cell": "D384",
+  "beam": "6 MV FF (open)",
+  "points": [
+   {
+    "D": 2.0,
+    "SF": 0.7460864977940751,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.5020721526259045,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.257657689626283,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.08358637717495508,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.014208842989619917,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 12.0,
+    "SF": 0.003901398861609787,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   }
+  ]
+ },
+ {
+  "cell": "T98",
+  "beam": "10 MV FFF (closed)",
+  "points": [
+   {
+    "D": 2.0,
+    "SF": 0.8124381695318211,
+    "score": 1.0,
+    "dcol": -1.6,
+    "how": "template match"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.2921108647838738,
+    "score": 1.0,
+    "dcol": -0.4,
+    "how": "template match"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.14977181352848049,
+    "score": 1.0,
+    "dcol": -1.2,
+    "how": "template match"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.06635126952595764,
+    "score": 1.0,
+    "dcol": -0.9,
+    "how": "template match"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.008400358950192572,
+    "score": 1.0,
+    "dcol": -0.7,
+    "how": "template match"
+   },
+   {
+    "D": 12.0,
+    "SF": 0.00186867250118993,
+    "score": 1.0,
+    "dcol": -0.4,
+    "how": "template match"
+   }
+  ]
+ },
+ {
+  "cell": "T98",
+  "beam": "6 MV FF (open)",
+  "points": [
+   {
+    "D": 2.0,
+    "SF": 0.8124381695318211,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 4.0,
+    "SF": 0.35992288996040545,
+    "score": 1.0,
+    "dcol": -0.4,
+    "how": "template match"
+   },
+   {
+    "D": 6.0,
+    "SF": 0.14977181352848049,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 8.0,
+    "SF": 0.06635126952595764,
+    "score": NaN,
+    "dcol": 0.0,
+    "how": "coincident with closed marker (hidden)"
+   },
+   {
+    "D": 10.0,
+    "SF": 0.006961490949306256,
+    "score": 1.0,
+    "dcol": 0.3,
+    "how": "template match"
+   },
+   {
+    "D": 12.0,
+    "SF": 0.0012054341900434972,
+    "score": 0.76,
+    "dcol": -0.4,
+    "how": "template match"
+   }
+  ]
+ }
+]
